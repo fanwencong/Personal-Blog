@@ -1,0 +1,14 @@
+.leftDiv {
+	width: 20%;
+	position:fixed;
+	top:0;
+	left:0;
+	background: #5BC0EB;
+}
+
+.rightDiv {
+	width: 80%;
+	height: 90%;
+	float: right;
+	
+}
